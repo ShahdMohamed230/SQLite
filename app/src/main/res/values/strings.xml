@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SqLite</string>
+    <string name="btn_insert_text">Insert</string>
+    <string name="ed_firstname_hint">Enter your firstname</string>
+    <string name="ed_lastname_hint">Enter your lastname</string>
+    <string name="ed_age_hint">Enter your age</string>
+    <string name="ed_address_hint">Enter your address</string>
+    <string name="ed_department_hint">Enter your department</string>
+    <string name="btn_update_text">Update</string>
+    <string name="tv_firstname_text">Firstname</string>
+    <string name="tv_lastname_text">Lastname</string>
+    <string name="tv_id_text">id</string>
+    <string name="btn_refresh_text">Refresh</string>
+    <string name="btn_delete_text">Delete</string>
+</resources>
